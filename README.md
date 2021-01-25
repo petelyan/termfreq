@@ -5,6 +5,6 @@ This program will be executed on the command line and will require the following
   
 The output file for writing the output should be specified in the config.properties file under "output.file"
 
-To run on command line (after executing mvn package): java -jar <jar name>.jar <arguments>
+To run on command line (after executing mvn package): java -jar termfreq.1.0.0.jar <arguments>
   
 The parameters should be separated by a space.
